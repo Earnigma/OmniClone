@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path
+        name="omniclone_external"
+        path="." />
+    <files-path
+        name="omniclone_internal"
+        path="." />
+    <cache-path
+        name="omniclone_cache"
+        path="." />
+</paths>
